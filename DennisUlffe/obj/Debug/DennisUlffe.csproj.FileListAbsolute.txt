@@ -1,0 +1,7 @@
+C:\Users\a18c105\source\repos\DennisUlffe\DennisUlffe\bin\Debug\DennisUlffe.exe.config
+C:\Users\a18c105\source\repos\DennisUlffe\DennisUlffe\bin\Debug\DennisUlffe.exe
+C:\Users\a18c105\source\repos\DennisUlffe\DennisUlffe\bin\Debug\DennisUlffe.pdb
+C:\Users\a18c105\source\repos\DennisUlffe\DennisUlffe\obj\Debug\DennisUlffe.csprojResolveAssemblyReference.cache
+C:\Users\a18c105\source\repos\DennisUlffe\DennisUlffe\obj\Debug\DennisUlffe.csproj.CoreCompileInputs.cache
+C:\Users\a18c105\source\repos\DennisUlffe\DennisUlffe\obj\Debug\DennisUlffe.exe
+C:\Users\a18c105\source\repos\DennisUlffe\DennisUlffe\obj\Debug\DennisUlffe.pdb
